@@ -1,2 +1,1 @@
-# white-label-login-example
-A small example on white-label-login
+A 2D endless runner game with Unity made in 2024
